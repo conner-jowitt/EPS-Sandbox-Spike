@@ -51,7 +51,7 @@ check-licenses:
 	npm run check-licenses
 	scripts/check_python_licenses.sh
 
-deploy-proxy: update-examples
+deploy-proxy: publish clean
 	scripts/deploy_proxy.sh
 
 deploy-spec: update-examples
