@@ -1,5 +1,5 @@
 {
-    "name": "pds-api-sandbox",
+    "name": "prescription-api-sandbox",
     "version": "0.0.1",
     "description": "Patient Information API Sandbox Server",
     "main": "app.js",
